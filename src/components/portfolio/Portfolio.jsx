@@ -56,10 +56,10 @@ const Portfolio = () => {
           </div>
           <h3>Web Game - Guess My Number</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/AmanDhungel/simple-weather-app" className="btn">
+            <a href="https://github.com/AmanDhungel/Guess-the-number" className="btn">
               Github
             </a>
-            <a href="https://amandhungel.github.io/simple-weather-app/" className="btn btn-primary" target="_blank">
+            <a href="https://amandhungel.github.io/Guess-the-number/" className="btn btn-primary" target="_blank">
               Live Demo
             </a>
           </div>
@@ -71,10 +71,10 @@ const Portfolio = () => {
           </div>
           <h3>Web App - Simple Weather App</h3>
           <div className="portfolio__item-cta">
-            <a href="#" className="btn">
+            <a href="https://github.com/AmanDhungel/simple-weather-app" className="btn">
               Github
             </a>
-            <a href="#" className="btn btn-primary" target="_blank">
+            <a href="https://amandhungel.github.io/simple-weather-app/" className="btn btn-primary" target="_blank">
               Live Demo
             </a>
           </div>
