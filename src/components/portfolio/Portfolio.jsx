@@ -6,6 +6,7 @@ import IMG3 from "../../assets/portfolio3.png";
 import IMG4 from "../../assets/portfolio4.png";
 import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.png";
+import IMG7 from "../../assets/portfolio7.png";
 
 const Portfolio = () => {
   return (
@@ -97,7 +98,37 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG6} alt="" />
+            <img src={IMG5} alt="" />
+          </div>
+          <h3>Web Game - Tic-Tac-Toe</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/AmanDhungel/Tic-Tac-Toe" className="btn">
+              Github
+            </a>
+            <a href="https://amandhungel.github.io/Tic-Tac-Toe/" className="btn btn-primary" target="_blank">
+              Live Demo
+            </a>
+          </div>
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG5} alt="" />
+          </div>
+          <h3>Made Using JS - 10 JS Projects</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/AmanDhungel/js-projects" className="btn">
+              Github
+            </a>
+            <a href="https://amandhungel.github.io/js-projects/" className="btn btn-primary" target="_blank">
+              Live Demo
+            </a>
+          </div>
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG7} alt="" />
           </div>
           <h3>Website - Portfolio</h3>
           <div className="portfolio__item-cta">
