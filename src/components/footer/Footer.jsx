@@ -39,9 +39,6 @@ const Footer = () => {
         <a href="https::/instagram.com">
           <FiInstagram />
         </a>
-        <a href="https::/twitter.com">
-          <IoLogoTwitter />
-        </a>
       </div>
 
       <div className="footer__copyright">

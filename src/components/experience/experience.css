@@ -68,6 +68,14 @@
   }
   .experience__container div {
     width: 100%;
-    padding: 2rem 1rem;
+    
+    padding: 1rem 1rem;
+  }
+  
+  .experience__container  .experience__frontend{
+    margin-left: -5px;
+  }
+  .experience__container  .experience__backend{
+    margin-left: -5px;
   }
 }

@@ -141,6 +141,21 @@ const Portfolio = () => {
             </a>
           </div>
         </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src="https://media.licdn.com/dms/image/D4E12AQHfSWXTymm4VA/article-cover_image-shrink_600_2000/0/1695299723277?e=2147483647&v=beta&t=k0oOD_n5zjaGevp72SKt4vFaW7DvHtrwbdIyb2eP0GA" alt="" />
+          </div>
+          <h3>HTML/CSS ShowCase - Portfolio</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/AmanDhungel/Free-Code-Camp---HTML-CSS" className="btn">
+              Github
+            </a>
+            <a href="https://amandhungel.github.io/Free-Code-Camp---HTML-CSS/" className="btn btn-primary" target="_blank">
+              Live Demo
+            </a>
+          </div>
+        </article>
       </div>
     </section>
   );
